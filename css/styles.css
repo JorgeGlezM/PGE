@@ -1,0 +1,11 @@
+/*** Add your styles here **/
+.Myformulario span {
+	width: 200px;
+	display: inline-block;
+}
+.Myformulario label {
+	width: 200px;
+	display: inline-block;
+}
+
+
